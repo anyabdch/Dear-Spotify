@@ -57,4 +57,5 @@ iframe {
     z-index: 30;
     top: 25vh;
     left: 30vw;
+    width: 50vw;
 }
