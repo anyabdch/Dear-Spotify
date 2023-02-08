@@ -10,6 +10,7 @@ button {
 
 .desc {
     display: inline;
+    width: 50vw;
 }
 
 .hidden {
