@@ -28,7 +28,7 @@ var playlists = [
                 Spanish and I was on a dual-language track throughout high school. Being bilingual is a huge part of my identity, which many find ironic because \
                 ethnically I'm Ashkenazi Jewish and Italian. I often get asked '¿eres Española?' -- 'are you Spanish?' -- from people trying to justify my \
                 accent with the color of my skin. So this playlist was born! Some of my favorite spanish music (I would kill to see Bad Bunny in concert) \
-                and the playlist I work out to :)"
+                and the playlist I work out to :)",
         embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0oa6tevkiM8XlRaL6ffBcQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
@@ -37,7 +37,7 @@ var playlists = [
                 acquired it in the last couple years. This playlist has gotten me through countless late finals week nights, 10 page papers, major projects, \
                 and application processes. It's what I'm listening to while I make this :) In my opinion, one of my greatest skills is with this playlist \
                 blasting, I can work in quite literally any setting.",
-        embded: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1o565KfcNpmEIkbX06jdXK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+        embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1o565KfcNpmEIkbX06jdXK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
         img: "fa.png",
@@ -47,12 +47,12 @@ var playlists = [
                 foliage behind. My dream is to spend some time in Seattle to be near the Olympic Peninsula. More specifically my dream is to hike the Pacific \
                 Crest Trail from Los Angeles to Seattle and arrive just in time for fall foliage and the autumn hiking season, but that's a story for another \
                 time :)",
-        embded: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/51gyD1SzsAxdTSeeZfVVPO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+        embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/51gyD1SzsAxdTSeeZfVVPO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
         img: "sccrwi.png",
         desc: "Need I say more?",
-        embded: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/68fT60Q8GgCkYPY6aw8s9c?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+        embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/68fT60Q8GgCkYPY6aw8s9c?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
         img: "patn.png",
@@ -62,20 +62,20 @@ var playlists = [
                 with it. I created this playlist with each of their favorite songs from our intake spreadsheet, and told them I'd be blasting this and this alone \
                 for all of Wildcat Welcome so they'd better 'make it snazzy'. Within an hour they had contributed 4 hours worth of music and we're starting to \
                 mingle. I've proven I can think outside the box with Spotify, now I want to think outside the box <i>at</i> Spotify ;)",
-        embded: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6r3CmZR6YjVuthveWqwGn2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+        embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6r3CmZR6YjVuthveWqwGn2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
         img: "titosc.png",
         desc: "This isn't actually my playlist, as you can probably tell from the title and genre. My boyfriend made this for a 4am drive to a hike that he took my \
                 mom and I on. Spotify proved itself to be a fabulous bonding tool and my mom proved itself to be a hell of a headbanger. When I told him I was \
                 including this playlist in my project he was actually concerned it would prevent me from getting a job for his taste in music. Prove him wrong!",
-        embded: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7xFZ2ylghoz9ioZrYgFaVp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+        embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7xFZ2ylghoz9ioZrYgFaVp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
         img: "csre.png",
         desc: "Last but far, far from least, this playlist is the song recommendations my first Spotify API algorithm in my very first CS course gave me. Though I \
                 don't listen to it often, it's a reminder of where I started and where I want to go <3",
-        embded: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2t9Io6PdiEDfExHFhsCn3d?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+        embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2t9Io6PdiEDfExHFhsCn3d?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     }
 ]
 
