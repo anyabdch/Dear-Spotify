@@ -15,7 +15,7 @@ var playlists = [
     },
     {
         img: "wi.png",
-        desc: "I'm a data collector at heart. I'm guilty of having like 10 different types of 'progress' photo albums on my phone to see if I've changed \
+        desc: "I'm a data collector at heart. I'm guilty of having like 10 different types of 'progress' photo albums on my phone to see what's changed \
                 over time. My Spotify is not immune to impulsive data collection. My latest idea has been to have playlists for every season and whenever \
                 I add a song to my library or get a song stuck in my head, I also put it in the season playlist for whatever time of year it is. I want to \
                 find out if there's a certain vibe for each season that naturally develops, and have fun little caches of seasonal memories. Enjoy this \
@@ -24,7 +24,7 @@ var playlists = [
     },
     {
         img: "es.png",
-        desc: "Growing up, I lived in a two language household. My father, who lived in Mexico for a long time, only speaks to my younger sister and I in \
+        desc: "I grew up in a two language household. My father, who lived in Mexico for a long time, only speaks to my younger sister and I in \
                 Spanish and I was on a dual-language track throughout high school. Being bilingual is a huge part of my identity, which many find ironic because \
                 ethnically I'm Ashkenazi Jewish and Italian. I often get asked '¿eres Española?' -- 'are you Spanish?' -- from people trying to justify my \
                 accent with the color of my skin. So this playlist was born! Some of my favorite spanish music (I would kill to see Bad Bunny in concert) \
@@ -67,7 +67,7 @@ var playlists = [
     {
         img: "titosc.png",
         desc: "This isn't actually my playlist, as you can probably tell from the title and genre. My boyfriend made this for a 4am drive to a hike that he took my \
-                mom and I on. Spotify proved itself to be a fabulous bonding tool and my mom proved itself to be a hell of a headbanger. When I told him I was \
+                mom and I on. Spotify proved itself to be a fabulous bonding tool and my mom proved herself to be a hell of a headbanger. When I told him I was \
                 including this playlist in my project he was actually concerned it would prevent me from getting a job for his taste in music. Prove him wrong!",
         embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7xFZ2ylghoz9ioZrYgFaVp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
