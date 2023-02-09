@@ -3,7 +3,7 @@ var playlists = [
         img: "hihy.png",
         desc: 'This playlist is the product of 2 weeks worth of parsing through my library, Spotify playlists, and similar playlists by other users \
                 to produce the ultimate 10 hour road trip playlist. Being on the road is one of my favorite passtimes -- after graduating high school \
-                I road tripped with my best friend. I did all the driving for 18 days over 1600 miles.',
+                I road tripped with my best friend across the 12 western US states and I did <i>all</i> the driving for 18 days over 1600 miles.',
         embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2alGpZzvMPxiAev0miTfra?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
@@ -17,18 +17,18 @@ var playlists = [
         img: "wi.png",
         desc: "I'm a data collector at heart. I'm guilty of having like 10 different types of 'progress' photo albums on my phone to see what's changed \
                 over time. My Spotify is not immune to impulsive data collection. My latest idea has been to have playlists for every season and whenever \
-                I add a song to my library or get a song stuck in my head, I also put it in the season playlist for whatever time of year it is. I want to \
-                find out if there's a certain vibe for each season that naturally develops, and have fun little caches of seasonal memories. Enjoy this \
+                I add a song to my library or get a song stuck in my head, I put it in the season playlist for whatever time of year it is. I want to \
+                find out if there's a certain vibe for each season that naturally develops, and also have fun little caches of seasonal memories. Enjoy this \
                 season's collection!",
         embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/12bkxiqORMdwp0TxdHqpLy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
         img: "es.png",
-        desc: "I grew up in a two language household. My father, who lived in Mexico for a long time, only speaks to my younger sister and I in \
-                Spanish and I was on a dual-language track throughout high school. Being bilingual is a huge part of my identity, which many find ironic because \
-                ethnically I'm Ashkenazi Jewish and Italian. I often get asked '¿eres Española?' -- 'are you Spanish?' -- from people trying to justify my \
-                accent with the color of my skin. So this playlist was born! Some of my favorite spanish music (I would kill to see Bad Bunny in concert) \
-                and the playlist I work out to :)",
+        desc: "I grew up in a two language household. My father (who lived in Mexico for a long time and whose family lived on the Tex-Mex border when \
+                they immigrated here after the Holocaust) only speaks to my younger sister and I in Spanish, and I was on a dual-language track throughout grade school. \
+                Being bilingual and speaking Spanish is a huge part of my identity, which many find ironic because ethnically I'm Ashkenazi Jewish and Italian. I often get asked \
+                '¿eres Española?' -- 'are you Spanish?' -- from people trying to justify my accent with the color of my skin. So this playlist was born! Some \
+                of my favorite spanish music (I would kill to see Bad Bunny in concert) and the playlist I work out to :)",
         embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0oa6tevkiM8XlRaL6ffBcQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
     {
