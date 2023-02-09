@@ -66,7 +66,7 @@ var playlists = [
     },
     {
         img: "titosc.png",
-        desc: "This isn't actually my playlist, as you can probably tell from the title and genre. My boyfriend made this for a 4am drive to a hike that he took my \
+        desc: "This isn't my playlist or my music taste, but it's still up there in my favorites. My boyfriend made this for a 4am drive to a hike that he took my \
                 mom and I on. Spotify proved itself to be a fabulous bonding tool and my mom proved herself to be a hell of a headbanger. When I told him I was \
                 including this playlist in my project he was actually concerned it would prevent me from getting a job for his taste in music. Prove him wrong!",
         embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7xFZ2ylghoz9ioZrYgFaVp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
