@@ -60,7 +60,7 @@ var playlists = [
                 PA is assigned a group of 10-15 incoming students to guide through orientation week (we call it Wildcat Welcome). I had the, ahem, luck of having \
                 a group that consisted of 11 very unenthusiastic boys and one girl. I had a hard time getting them to open up at first, so I had to get creative \
                 with it. I created this playlist with each of their favorite songs from our intake spreadsheet, and told them I'd be blasting this and this alone \
-                for all of Wildcat Welcome so they'd better 'make it snazzy'. Within an hour they had contributed 4 hours worth of music and we're starting to \
+                for all of Wildcat Welcome so they'd better 'make it snazzy'. Within an hour they had contributed 4 hours worth of music and were starting to \
                 mingle. I've proven I can think outside the box with Spotify, now I want to think outside the box <i>at</i> Spotify ;)",
         embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6r3CmZR6YjVuthveWqwGn2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     },
