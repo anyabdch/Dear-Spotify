@@ -11,6 +11,7 @@ button {
 .desc {
     display: inline;
     width: 50vw;
+    margin: 10px 10px;
 }
 
 .hidden {
